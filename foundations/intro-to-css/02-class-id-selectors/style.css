@@ -2,3 +2,21 @@
     background-color: lightcoral;
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
+
+.TimesNew{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#BlueText{
+    color: blue;
+    font-size: 36px;
+}
+
+#GreenBackground{
+    background-color: greenyellow;
+    font-weight: 700;
+}
+
+.size24{
+    font-size: 24px;
+}
