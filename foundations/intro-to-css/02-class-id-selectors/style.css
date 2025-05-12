@@ -1,5 +1,5 @@
 .odd-number{
-    background-color: lightcoral;
+    background-color: rgb(223, 87, 87);
     font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 
@@ -13,7 +13,7 @@
 }
 
 #GreenBackground{
-    background-color: greenyellow;
+    background-color: hsl(97, 60%, 74%);
     font-weight: 700;
 }
 
